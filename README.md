@@ -130,7 +130,7 @@ Nmap (Network Mapper) is a network discovery and security auditing tool. It prov
    **Command:** `nmap -sU [target]`  
    Detects open UDP ports by sending UDP packets to check for responses.
 
-
+![nmap udp scan](https://github.com/user-attachments/assets/08c8dd85-909a-45e3-ae79-da020cbf1b46)
 
 4. **SCTP INIT Scan**  
    **Command:** `nmap -sY [target]`  
