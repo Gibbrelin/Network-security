@@ -142,6 +142,8 @@ Nmap (Network Mapper) is a network discovery and security auditing tool. It prov
    **Command:** `nmap -sZ [target]`  
    Uses COOKIE-ECHO chunks to identify SCTP services more accurately.
 
+![nmap cookie echo scan](https://github.com/user-attachments/assets/750878ed-73f8-46c2-a8af-7d289d1b9239)
+
 6. **Ping Scan (ICMP Scan)**  
    **Command:** `nmap -sn [target]`  
    Checks if hosts are online by sending ICMP echo requests, without port scanning.
