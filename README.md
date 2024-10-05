@@ -180,9 +180,9 @@ Nmap (Network Mapper) is a network discovery and security auditing tool. It prov
 
 ![nmap null scan](https://github.com/user-attachments/assets/99e09604-1f4c-44aa-a2a1-a459e6aa086b)
 
-12. **Idle (Zombie) Scan**  
-    **Command:** `nmap -sI [zombie] [target]`  
-    A stealthy scan that uses a third-party system to send packets, masking the source of the scan.
+12. **IP Protocol Scan**  
+    **Command:** `nmap -sO [target]`  
+ Scans for supported IP protocols (e.g., TCP, ICMP, IGMP) rather than ports on the target host
 
 13. **Service Version Detection Scan**  
     **Command:** `nmap -sV [target]`  
@@ -193,6 +193,8 @@ Nmap (Network Mapper) is a network discovery and security auditing tool. It prov
 14. **Operating System Detection Scan**  
     **Command:** `nmap -O [target]`  
     Attempts to identify the target’s operating system based on network responses.
+
+![nmap os detection](https://github.com/user-attachments/assets/09571d79-1d61-4028-94ca-19da6d27e79f)
 
 15. **NSE Script Scan**  
     **Command:** `nmap --script [scriptname] [target]`  
