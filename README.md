@@ -178,6 +178,8 @@ Nmap (Network Mapper) is a network discovery and security auditing tool. It prov
     **Command:** `nmap -sN [target]`  
     Sends packets with no TCP flags to elicit responses from poorly-configured systems.
 
+![nmap null scan](https://github.com/user-attachments/assets/99e09604-1f4c-44aa-a2a1-a459e6aa086b)
+
 12. **Idle (Zombie) Scan**  
     **Command:** `nmap -sI [zombie] [target]`  
     A stealthy scan that uses a third-party system to send packets, masking the source of the scan.
