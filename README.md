@@ -198,10 +198,11 @@ Nmap (Network Mapper) is a network discovery and security auditing tool. It prov
 
 ![nmap os detection](https://github.com/user-attachments/assets/09571d79-1d61-4028-94ca-19da6d27e79f)
 
-15. **NSE Script Scan**  
+15. **TCP Maimon Scan**  
     **Command:** `nmap --script [scriptname] [target]`  
-    Uses the Nmap Scripting Engine to perform advanced scans, such as vulnerability assessments or brute force attacks.
+  A variation of the FIN scan, sending packets with FIN/ACK flags to evade certain firewall rules.
 
+![Screenshot 2024-10-05 133240](https://github.com/user-attachments/assets/d47208d1-948e-4304-82aa-0d50a6b05fed)
 ---
 
 ## Conclusion
