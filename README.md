@@ -5,7 +5,11 @@
 This `README.md` provides an introduction to basic traffic analysis using **Wireshark** and highlights 15 types of network analysis you can perform using Wireshark. Additionally, it covers 15 types of **Nmap** scans that are essential for network discovery and security auditing.
 
 ---
+Prerequisites:
+• Basic understanding of network protocols and packet structures.
+• Installing Kali OS on Virtual Box and Kali Purple on VMWare
 
+---
 ## Wireshark: Basic Traffic Analysis
 
 Wireshark is a widely-used network protocol analyzer that allows users to capture and interactively browse the traffic running on a computer network. It's useful for troubleshooting network issues, analyzing suspicious traffic, and investigating performance bottlenecks.
