@@ -166,6 +166,8 @@ Nmap (Network Mapper) is a network discovery and security auditing tool. It prov
    **Command:** `nmap -sF [target]`  
    Sends TCP FIN packets to determine open or closed ports on systems with weak security configurations.
 
+![nmap tcp fin scan](https://github.com/user-attachments/assets/7ad17fd5-b912-4675-add7-bb502f666196)
+
 10. **Xmas Scan**  
     **Command:** `nmap -sX [target]`  
     Sends TCP packets with FIN, PSH, and URG flags set to detect open ports.
