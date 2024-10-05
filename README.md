@@ -124,11 +124,13 @@ Nmap (Network Mapper) is a network discovery and security auditing tool. It prov
    **Command:** `nmap -sT [target]`  
    Completes the full TCP handshake, useful when SYN scanning is not allowed.
 
-
+![nmap tcp scan](https://github.com/user-attachments/assets/79fae909-5959-447b-9842-f489d77c3362)
 
 3. **UDP Scan**  
    **Command:** `nmap -sU [target]`  
    Detects open UDP ports by sending UDP packets to check for responses.
+
+
 
 4. **SCTP INIT Scan**  
    **Command:** `nmap -sY [target]`  
