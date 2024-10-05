@@ -136,6 +136,8 @@ Nmap (Network Mapper) is a network discovery and security auditing tool. It prov
    **Command:** `nmap -sY [target]`  
    Scans for open SCTP ports using the INIT packet, used in specialized network communications.
 
+![nmap init scan](https://github.com/user-attachments/assets/55976ba8-326c-45d0-bb1e-c228827c6554)
+
 5. **SCTP COOKIE-ECHO Scan**  
    **Command:** `nmap -sZ [target]`  
    Uses COOKIE-ECHO chunks to identify SCTP services more accurately.
