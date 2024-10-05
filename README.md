@@ -160,6 +160,8 @@ Nmap (Network Mapper) is a network discovery and security auditing tool. It prov
    **Command:** `nmap -sW [target]`  
    Analyzes TCP window size responses to detect open ports even when firewalls are blocking SYN/ACK responses.
 
+![nmap tcp window scan](https://github.com/user-attachments/assets/08009083-9485-439d-bc3b-e0107420a8d3)
+
 9. **TCP FIN Scan**  
    **Command:** `nmap -sF [target]`  
    Sends TCP FIN packets to determine open or closed ports on systems with weak security configurations.
