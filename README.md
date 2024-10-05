@@ -184,6 +184,8 @@ Nmap (Network Mapper) is a network discovery and security auditing tool. It prov
     **Command:** `nmap -sO [target]`  
  Scans for supported IP protocols (e.g., TCP, ICMP, IGMP) rather than ports on the target host
 
+![nmap sO ip protocol scan](https://github.com/user-attachments/assets/ed63659a-8a39-48c8-a070-2cce62a6bc69)
+
 13. **Service Version Detection Scan**  
     **Command:** `nmap -sV [target]`  
     Detects the software version running on open ports.
