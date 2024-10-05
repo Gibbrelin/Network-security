@@ -148,6 +148,8 @@ Nmap (Network Mapper) is a network discovery and security auditing tool. It prov
    **Command:** `nmap -sn [target]`  
    Checks if hosts are online by sending ICMP echo requests, without port scanning.
 
+![nmap ping scan](https://github.com/user-attachments/assets/9c51e4f5-95c0-4512-ba7e-5feddc5b5099)
+
 7. **TCP ACK Scan**  
    **Command:** `nmap -sA [target]`  
    Determines firewall rules and detects whether a port is filtered by sending ACK packets.
