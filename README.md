@@ -6,7 +6,9 @@ This `README.md` provides an introduction to basic traffic analysis using **Wire
 
 ---
 Prerequisites:
+
 • Basic understanding of network protocols and packet structures.
+
 • Installing Kali OS on Virtual Box and Kali Purple on VMWare
 
 ---
