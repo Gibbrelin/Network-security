@@ -74,6 +74,8 @@ Wireshark is a widely-used network protocol analyzer that allows users to captur
 7. **Bandwidth Usage Monitoring**  
    Determine which hosts or protocols are consuming the most bandwidth.
 
+![Screenshot 2024-10-05 115737](https://github.com/user-attachments/assets/36b04f6e-c0e6-4ed7-87ad-87808ba614ac)
+
 8. **DNS Query Analysis**  
    Monitor and inspect DNS queries and responses to troubleshoot name resolution issues.
 
