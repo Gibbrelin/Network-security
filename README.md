@@ -43,7 +43,7 @@ Wireshark is a widely-used network protocol analyzer that allows users to captur
 1. **Packet Capture**  
    Capture all network traffic on an interface and display detailed packet data in real-time.
 
-![Screenshot 2024-10-05 090640](https://github.com/user-attachments/assets/903cbcfb-4d77-463a-85bc-6e577bfa85)
+![Screenshot 2024-10-05 090640](https://github.com/user-attachments/assets/903cbcfb-4d77-463a-85bc-6e577bfa8532)
 
 2. **Protocol Analysis**  
    Analyze the different network protocols in use, such as HTTP, TCP, UDP, DNS, and more.
