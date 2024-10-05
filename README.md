@@ -5,7 +5,7 @@
 This `README.md` provides an introduction to basic traffic analysis using **Wireshark** and highlights 15 types of network analysis you can perform using Wireshark. Additionally, it covers 15 types of **Nmap** scans that are essential for network discovery and security auditing.
 
 ---
-Prerequisites:
+## Pre-requisites:
 
 • Basic understanding of network protocols and packet structures.
 
