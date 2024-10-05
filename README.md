@@ -58,6 +58,9 @@ Wireshark is a widely-used network protocol analyzer that allows users to captur
 4. **Filter Traffic by Protocol**  
    Analyze specific protocols, such as HTTP (`http`), DNS (`dns`), or SSL/TLS (`ssl`).
 
+![wire http filter](https://github.com/user-attachments/assets/2c95f18c-6add-49cc-b53d-8c4cd3f4f0d1)
+![wire dns filter](https://github.com/user-attachments/assets/40fff4fb-7101-4420-88f1-6824e89e62ee)
+
 5. **Reconstruct TCP Sessions**  
    Follow and reconstruct TCP streams to view entire communication sessions between two endpoints.
 
