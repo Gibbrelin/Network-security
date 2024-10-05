@@ -89,6 +89,8 @@ Wireshark is a widely-used network protocol analyzer that allows users to captur
 10. **Filter by Port Number**  
     Analyze traffic to or from a specific port (e.g., `tcp.port == 80` for HTTP).
 
+![Screenshot 2024-10-05 124923](https://github.com/user-attachments/assets/e8112545-3147-4884-8265-475bb0364b9e)
+
 11. **VoIP Traffic Analysis**  
     Capture and analyze VoIP (SIP/RTP) traffic to troubleshoot call setup, quality, or security issues.
 
