@@ -188,6 +188,8 @@ Nmap (Network Mapper) is a network discovery and security auditing tool. It prov
     **Command:** `nmap -sV [target]`  
     Detects the software version running on open ports.
 
+![nmap service detection scan](https://github.com/user-attachments/assets/a37a92ac-123b-4aba-86d4-d6bed3e244a3)
+
 14. **Operating System Detection Scan**  
     **Command:** `nmap -O [target]`  
     Attempts to identify the target’s operating system based on network responses.
