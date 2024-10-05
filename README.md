@@ -30,9 +30,11 @@ Wireshark is a widely-used network protocol analyzer that allows users to captur
 
 4. **Stop Capturing Traffic**: Click the **Stop** button to halt packet capture once you’ve gathered sufficient data.
 
-
+![Screenshot 2024-10-05 082223](https://github.com/user-attachments/assets/5e92fbc3-29c5-4987-be90-368669f4b55d)
 
 5. **Analyze Packets**: Use filters, statistics, and other analysis tools to dissect the captured packets.
+
+
 
 ---
 
