@@ -172,6 +172,8 @@ Nmap (Network Mapper) is a network discovery and security auditing tool. It prov
     **Command:** `nmap -sX [target]`  
     Sends TCP packets with FIN, PSH, and URG flags set to detect open ports.
 
+![nmap xmas scan](https://github.com/user-attachments/assets/168a70c9-0409-4c93-852e-65dd2fd9ede0)
+
 11. **Null Scan**  
     **Command:** `nmap -sN [target]`  
     Sends packets with no TCP flags to elicit responses from poorly-configured systems.
