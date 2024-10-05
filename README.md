@@ -64,6 +64,8 @@ Wireshark is a widely-used network protocol analyzer that allows users to captur
 5. **Reconstruct TCP Sessions**  
    Follow and reconstruct TCP streams to view entire communication sessions between two endpoints.
 
+![Screenshot 2024-10-05 093631](https://github.com/user-attachments/assets/956f5473-bc71-45f0-b767-d5c32a628230)
+
 6. **Network Latency Analysis**  
    Measure Round Trip Time (RTT) and identify delays in packet delivery between source and destination.
 
