@@ -69,6 +69,8 @@ Wireshark is a widely-used network protocol analyzer that allows users to captur
 6. **Network Latency Analysis**  
    Measure Round Trip Time (RTT) and identify delays in packet delivery between source and destination.
 
+![Screenshot 2024-10-05 115127](https://github.com/user-attachments/assets/d9d3aef3-7be0-4f22-937b-cb70c98eb843)
+
 7. **Bandwidth Usage Monitoring**  
    Determine which hosts or protocols are consuming the most bandwidth.
 
