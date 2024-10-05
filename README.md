@@ -86,17 +86,17 @@ Wireshark is a widely-used network protocol analyzer that allows users to captur
 
 ![Screenshot 2024-10-05 120945](https://github.com/user-attachments/assets/5f83853e-7abc-464e-a3c9-0f995de5db30)
 
-10. **VoIP Traffic Analysis**  
+10. **Filter by Port Number**  
+    Analyze traffic to or from a specific port (e.g., `tcp.port == 80` for HTTP).
+
+11. **VoIP Traffic Analysis**  
     Capture and analyze VoIP (SIP/RTP) traffic to troubleshoot call setup, quality, or security issues.
 
-11. **Capture File Transfers**  
+12. **Capture File Transfers**  
     Analyze file transfer protocols like FTP, SMB, or HTTP file uploads/downloads.
 
-12. **Identify Security Threats**  
+13. **Identify Security Threats**  
     Detect malicious traffic, port scanning, man-in-the-middle attacks, or abnormal network behavior.
-
-13. **Filter by Port Number**  
-    Analyze traffic to or from a specific port (e.g., `tcp.port == 80` for HTTP).
 
 14. **Analyze Packet Loss**  
     Identify packet retransmissions or dropped packets to diagnose network instability.
