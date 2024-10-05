@@ -84,6 +84,8 @@ Wireshark is a widely-used network protocol analyzer that allows users to captur
 9. **HTTP/HTTPS Analysis**  
    Analyze web traffic, inspect HTTP requests/responses, and follow TLS/SSL handshakes.
 
+![Screenshot 2024-10-05 120945](https://github.com/user-attachments/assets/5f83853e-7abc-464e-a3c9-0f995de5db30)
+
 10. **VoIP Traffic Analysis**  
     Capture and analyze VoIP (SIP/RTP) traffic to troubleshoot call setup, quality, or security issues.
 
