@@ -79,6 +79,8 @@ Wireshark is a widely-used network protocol analyzer that allows users to captur
 8. **DNS Query Analysis**  
    Monitor and inspect DNS queries and responses to troubleshoot name resolution issues.
 
+![Screenshot 2024-10-05 120411](https://github.com/user-attachments/assets/2ad7b252-960d-4ab4-b6ba-32463dc9004b)
+
 9. **HTTP/HTTPS Analysis**  
    Analyze web traffic, inspect HTTP requests/responses, and follow TLS/SSL handshakes.
 
