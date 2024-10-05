@@ -19,9 +19,19 @@ Wireshark is a widely-used network protocol analyzer that allows users to captur
 ### Getting Started with Wireshark
 
 1. **Install Wireshark**: Download and install Wireshark from [https://www.wireshark.org/](https://www.wireshark.org/).
+
 2. **Open Wireshark**: Launch Wireshark and select the network interface you want to monitor.
+
+![Screenshot 2024-10-04 205105](https://github.com/user-attachments/assets/fe1e8a41-f486-49af-955f-b3449debbc1c)
+
 3. **Start Capturing Traffic**: Click the **Start** button to begin capturing packets on your chosen interface.
+
+
+
 4. **Stop Capturing Traffic**: Click the **Stop** button to halt packet capture once you’ve gathered sufficient data.
+
+
+
 5. **Analyze Packets**: Use filters, statistics, and other analysis tools to dissect the captured packets.
 
 ---
