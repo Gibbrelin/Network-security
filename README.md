@@ -48,7 +48,7 @@ Wireshark is a widely-used network protocol analyzer that allows users to captur
 2. **Protocol Analysis**  
    Analyze the different network protocols in use, such as HTTP, TCP, UDP, DNS, and more.
 
-
+![Screenshot 2024-10-05 090225](https://github.com/user-attachments/assets/0efd76ca-870c-4baf-81e4-e955d06f712a)
 
 3. **Filter Traffic by IP Address**  
    Focus on traffic from or to a specific IP address using filters (e.g., `ip.addr == 192.168.1.1`).
